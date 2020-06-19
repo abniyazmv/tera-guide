@@ -1,0 +1,13 @@
+{
+    "servers": ["https://raw.githubusercontent.com/Kaseaa/tera-guide/master/"],
+    "supportUrl": "https://github.com/Kaseaa/tera-guide/issues",
+    "name": "tera-guide",
+    "author": "Kasea",
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+    },
+    "options": {
+        "guiName": "Tera Guide"
+    },
+    "description": "Guides you in Tera"
+}
