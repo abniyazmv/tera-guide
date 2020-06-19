@@ -1,6 +1,6 @@
 {
-  "servers": ["https://github.com/niyazmv/tera-guide"],
-  "supportUrl": "https://github.com/niyazmv/tera-guide/issues",
+  "servers": ["https://github.com/niyazmv/tera-guide/"],
+  "supportUrl": "https://github.com/niyazmv/tera-guide/issues/",
   "name": "tera-guide",
   "author": "abniyazmv",
   "dependencies": {
