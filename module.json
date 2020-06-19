@@ -1,13 +1,13 @@
 {
-    "servers": ["https://raw.githubusercontent.com/Kaseaa/tera-guide/master/"],
-    "supportUrl": "https://github.com/Kaseaa/tera-guide/issues",
-    "name": "tera-guide",
-    "author": "Kasea",
-    "dependencies": {
-        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
-    },
-    "options": {
-        "guiName": "Tera Guide"
-    },
-    "description": "Guides you in Tera"
+  "servers": ["https://github.com/niyazmv/tera-guide"],
+  "supportUrl": "https://github.com/niyazmv/tera-guide/issues",
+  "name": "tera-guide",
+  "author": "abniyazmv",
+  "dependencies": {
+    "library": "https://github.com/niyazmv/tera-guide/blob/master/module.json"
+  },
+  "options": {
+    "guiName": "Tera Guide"
+  },
+  "description": "Guides you in Tera"
 }

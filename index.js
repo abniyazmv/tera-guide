@@ -338,9 +338,7 @@ class TeraGuide {
       // Try loading a guide
       try {
         active_guide = require("./guides/" + e.zone);
-        command.message(
-          `Streamer mode has been ${stream ? "enabled" : "disabled"}.`
-        );
+        command.message(`Dungeon Found ${e.zone}`);
         guide_found = true;
       } catch (e) {
         active_guide = {};
