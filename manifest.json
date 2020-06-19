@@ -2,7 +2,6 @@
   "files": {
     "config.json": "b56701c0166c8ce6fa8e22c7b9d775ae2797ead50411acec53d5a9a13431b115",
     "dispatch.js": "521dce3d7a3f4aa1a985998a635cfeb6114155d762dc211bb8d27162de1aea90",
-    "generated-manifest.json": "ed9bfafcab5547b8b051bc11d22ecdd6a2dbd09d0005999aee66448e5be3a7c1",
     "index.js": "8c943183c3db22927f7d61ad0bc58b1865af61578e7eeb2e246904e39b896e42",
     "lib.js": "f4eb0275e953f0abb72708b7e068c0f3b0a84e09afa0eca1d80f13f2b316421a",
     "module.json": "20defe75250a3ceb3644f2bbc1e3fcb428bcb86cb5eca0391fc96464cd247ec6",
